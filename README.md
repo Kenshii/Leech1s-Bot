@@ -1,0 +1,2 @@
+This is a bot that I made in 2015 in order to simplify Leech1s's premium link generation process.
+You put a list of download links in links_in.txt, and run the script, and it'll generate a list of premium download links in links_out.txt
